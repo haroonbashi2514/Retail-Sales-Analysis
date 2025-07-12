@@ -20,18 +20,6 @@ Install all dependencies:
 bash
 pip install -r requirements.txt
 
-# Project Structure
-
-Retail-Sales-Analysis/
-├── sales_analysis.py          # Main Python script for analysis and chart generation
-├── Sample - Superstore.xlsx   # Raw sales data (Kaggle dataset)
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project overview and documentation
-└── outputs/
-    ├── top_categories.png     # Top product categories by sales
-    ├── monthly_trend.png      # Sales trend over time
-    └── regional_sales.png     # Sales performance by region
-
 # Key Insights
 
 - Top Categories: Visualized total sales by product category
